@@ -2,11 +2,6 @@
 
 A clean and responsive periodic table built using HTML and CSS. Designed to work smoothly on all screen sizes.
 
-## 🔗 Live Demo
-
-[View Project Live](https://fahadkhan008.github.io/periodic-table)
-
-
 ## 💡 Features
 
 - Fully responsive design
